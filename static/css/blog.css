@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto';
+}
+.header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+.header h1 {
+  font-weight: 300;
+}
+.post {
+  margin-top: 50px;
+}
+.post a {
+  color: #000;
+}
+.post a:hover {
+  text-decoration: none;
+  color: grey;
+  transition: 0.3s;
+}
+.post small {
+    color: grey;
+}
